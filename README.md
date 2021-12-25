@@ -1,5 +1,4 @@
-# RxSwift 공부
-- 공식문서 보는중
+# RxSwift 정리
 
 ## 1.Basics
 - [Observable ~ Share](./Basics/1.Observable.md)
@@ -10,3 +9,4 @@
 
 ## 3. Subjects
 - [Subjects](/Subjects/4.Subjects.md)
+- [Relay](/Subjects/5.Relay.md)
