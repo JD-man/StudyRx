@@ -13,3 +13,12 @@
 
 ## 4. Hot&Cold Observable
 - [Hot&Cold](/Hot&Cold/Hot&Cold.md)
+
+## 5. Operators
+- [orEmpty, distinctUntilChanged](/Operators/orEmpty,distinctUntilChanged.md)
+- [combineLatest, map](/Operators/combineLatest,map.md)
+- [decode](/Operators/decode.md)
+- [throttle, debounce](/Operators/throttle,debounce.md)
+
+## 6. Architecture
+- [Input, Output 1](/Architecture/Input,Output.md)
