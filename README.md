@@ -19,6 +19,7 @@
 - [combineLatest, map](/Operators/combineLatest,map.md)
 - [decode](/Operators/decode.md)
 - [throttle, debounce](/Operators/throttle,debounce.md)
+- [zip, merge](/Operators/zip,merge.md)
 
 ## 6. Architecture
 - [Input, Output 1](/Architecture/Input,Output.md)
