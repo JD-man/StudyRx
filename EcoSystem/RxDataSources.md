@@ -37,6 +37,18 @@ func before() {
     beforeRelay.accept(beforeTestData)
 }
 ```
+<table align="center">
+<tr>
+<td align="center"> Result </td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<video src= https://user-images.githubusercontent.com/62129500/148647591-93f8c41b-2405-4a26-8175-e7f7d5eabf18.mp4 width = 70%>
+</p>
+</td>
+</tr>
+</table>
 
 - 섹션을 따로 나누기도 어렵고 애니메이션이 없어서 노잼이다..
 
@@ -119,6 +131,20 @@ tableView.rx.itemSelected
     }.disposed(by: disposeBag)
 ```
 - 랜덤으로 섹션별 새로운 데이터를 추가한다. 섹션으로 나눠서 작업돼서 좋다.
+
+<table align="center">
+<tr>
+<td align="center"> Result </td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<video src= https://user-images.githubusercontent.com/62129500/148647627-9f7f49a6-c6cc-428b-8396-cdc585b51e93.mp4 width = 70%>
+</p>
+</td>
+</tr>
+</table>
+
 - 그래도 애니메이션은 없다!!??
 
 ---
@@ -187,3 +213,18 @@ tableView.rx.itemSelected
     }.disposed(by: disposeBag)
 ```
 - identity가 중복되지 않게 새로운 데이터를 만든다.
+
+<table align="center">
+<tr>
+<td align="center"> Result </td>
+</tr>
+<tr>
+<td>
+<p align="center">
+<video src= https://user-images.githubusercontent.com/62129500/148647649-b695435a-bbfe-44b3-9bb2-f009c9ce88e5.mp4 width = 70%>
+</p>
+</td>
+</tr>
+</table>
+
+- 이맛이지
