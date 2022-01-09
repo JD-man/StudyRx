@@ -20,6 +20,7 @@
 - [decode](/Operators/decode.md)
 - [throttle, debounce](/Operators/throttle,debounce.md)
 - [zip, merge](/Operators/zip,merge.md)
+- [flatMap, flatMapLatest](/Operators/flatMap,flatMapLatest.md)
 
 ## 6. Architecture
 - [Input, Output 1](/Architecture/Input,Output.md)
