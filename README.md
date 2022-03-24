@@ -21,6 +21,8 @@
 - [throttle, debounce](/Operators/throttle,debounce.md)
 - [zip, merge](/Operators/zip,merge.md)
 - [flatMap, flatMapLatest](/Operators/flatMap,flatMapLatest.md)
+- [withUnretained](/Operators/withUnretained.md)
+- [concat, catch](/Operators/concat,catch.md)
 
 ## 6. Architecture
 - [Input, Output 1](/Architecture/Input,Output.md)
